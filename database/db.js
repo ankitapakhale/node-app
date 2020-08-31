@@ -1,3 +1,3 @@
 module.exports = {
-   db: 'mongodb://localhost:27017/CRUD-DB'
+   db: 'mongodb+srv://Ankita:KSzPV4IWAAtB8Qq2@cluster0.faeu2.mongodb.net/test'
 };
